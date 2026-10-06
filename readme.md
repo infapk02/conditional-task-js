@@ -232,7 +232,7 @@ Through these exercises, I practiced:
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/infapk02/conditional-task-js.git
 ```
 
 ### 2. Open the project
@@ -244,7 +244,7 @@ Open the project folder in **VS Code**.
 You can run the JavaScript file using **Node.js**:
 
 ```bash
-node script.js
+node index.js
 ```
 
 Or run the code inside a browser using the browser's **Developer Console**.
